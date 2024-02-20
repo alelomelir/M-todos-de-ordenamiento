@@ -1,8 +1,8 @@
 # M-todos-de-ordenamiento
-## Métodos de ordenamiento de algoritmos
+# Métodos de ordenamiento de algoritmos
 Son un conjunto de instrucciones que toman un arreglo o lista como entrada y organizan los elementos en un orden particular.
 
-##Insertion Sort 
+# Insertion Sort 
 Este procedimiento recibe el arreglo de datos a ordenar y altera las posiciones de sus elementos hasta dejarlos ordenados de menor a mayor. 
 ```javascript
 public class InsertionSortExample {  
@@ -37,7 +37,7 @@ public class InsertionSortExample {
 ```
 ![download](https://github.com/alelomelir/M-todos-de-ordenamiento/assets/160270480/ee38580d-a74b-4a56-8a1d-b6a5d8fa0aaa)
 
-##Selection Sort 
+# Selection Sort
 Este método consiste en encontrar el menor de todos los elementos de arreglo e intercambiarlo con el que está en la primera posición, luego el segundo más pequeño y así sucesivamente hasta ordenar todo el arreglo.
 ```javascript
 public class SelectionSortExample {  
@@ -75,7 +75,7 @@ public class SelectionSortExample {
 ```
 ![download](https://github.com/alelomelir/M-todos-de-ordenamiento/assets/160270480/74831f4d-bbfd-499e-878f-acd498e4dc7c)
 
-##Bubble Sort
+# Bubble Sort
 Consiste en comparar los dos primeros elementos de la lista, si el primer elemento es mayor que el segundo, se intercambian, si no, se quedan como están. Este proceso de repite hasta que la estructura este ordenada. 
 ```javascript
 public class BubbleSortExample {  
