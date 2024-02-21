@@ -113,6 +113,6 @@ public class BubbleSortExample {
 ```
 ![images](https://github.com/alelomelir/M-todos-de-ordenamiento/assets/160270480/51572974-a2c0-44c0-8283-c97cbb0e9387)
 
-
+Alejandra Lomeli Rodriguez 4P 22310413
 
 
